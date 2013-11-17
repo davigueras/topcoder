@@ -10,6 +10,7 @@ import srm147div2.PeopleCircleTest;
 import srm150div2.WidgetRepairsTest;
 import srm151div2.PrefixCodeTest;
 import srm154div2.ProfitCalculatorTest;
+import srm158div2.TireRotationTest;
 
 /**
  * The class <code>TestAll</code> builds a suite that can be used to run all
@@ -29,7 +30,8 @@ import srm154div2.ProfitCalculatorTest;
 	CCipherTest.class,
 	WidgetRepairsTest.class,
 	PrefixCodeTest.class,
-	ProfitCalculatorTest.class
+	ProfitCalculatorTest.class,
+	TireRotationTest.class
 })
 public class TestAll {
 
