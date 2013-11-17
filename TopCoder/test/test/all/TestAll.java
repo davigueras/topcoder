@@ -4,8 +4,6 @@ import org.junit.runner.JUnitCore;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
-import srm146div2.RectangularGridTest;
-import srm146div2.YahtzeeScoreTest;
 import srm147div2.CCipherTest;
 import srm147div2.GoldenChainTest;
 import srm147div2.PeopleCircleTest;
@@ -26,8 +24,6 @@ import srm154div2.ProfitCalculatorTest;
 	/* Cal afegir manualment cada nova adicio als sub-TestAll, aixo serveix per 
 	 * provar tot el projecte i fer coverage test de tot sencerv */
 	
-	YahtzeeScoreTest.class,
-	RectangularGridTest.class,
 	GoldenChainTest.class,
 	PeopleCircleTest.class,
 	CCipherTest.class,
